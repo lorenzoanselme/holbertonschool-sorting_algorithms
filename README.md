@@ -27,6 +27,7 @@ At the end of this project, you should be able to explain:
 
 ## Project Structure
 
+```text
 sorting_algorithms/
 ├── sort.h
 ├── print_array.c
@@ -40,6 +41,7 @@ sorting_algorithms/
 ├── 3-quick_sort.c
 ├── 3-O
 └── README.md
+```
 
 ## Implemented Algorithms
 
